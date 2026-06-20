@@ -1,5 +1,9 @@
 <h1>This is a Fume extractor that i built becouse i wanted to stop geting sick after soldering for a long time.</h1>
-<img width="3024" height="4032" alt="unnamed" src="https://github.com/user-attachments/assets/18d22d32-465e-4270-8616-3ce87a768ccb" />
+https://youtu.be/TrmjoPsVBhA
+
+
+
+
 <h2>how to use:</h2>
 <ul>
   <li>Pull out pegs</li>
@@ -35,6 +39,8 @@
     <img width="3024" height="4032" alt="20260619_165226" src="https://github.com/user-attachments/assets/0e55ed95-c4fe-487e-8875-7a7ff369304b" />
   </li>
   <li>
+
+
     <h3>Strip a usb</h3>
     <img width="3024" height="4032" alt="20260619_165805" src="https://github.com/user-attachments/assets/0ec4670c-93cb-4176-8c24-8ec54e175517" />
     <p>red -> positive<br>
