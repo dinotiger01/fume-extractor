@@ -1,4 +1,4 @@
-<h1>this is a Fume extractor that i built becouse i wanted to stop geting sick after soldering for a long time.</h1>
+<h1>This is a Fume extractor that i built becouse i wanted to stop geting sick after soldering for a long time.</h1>
 <img width="3024" height="4032" alt="unnamed" src="https://github.com/user-attachments/assets/18d22d32-465e-4270-8616-3ce87a768ccb" />
 <h2>how to use:</h2>
 <ul>
@@ -21,7 +21,8 @@
       <li>100mm citcals</li>
     </ul>
     <p>I have got the best results by printing everything sepretly and turning the case 90° so the opening is facing up</p>
-    <p>Printer settings</p>
+    <p>printer setting in repo</p>
+    
   </li>
   <li>
     <h3>Solder wires to fan</h3>
