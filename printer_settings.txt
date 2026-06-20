@@ -1,0 +1,41 @@
+    Setting	Value
+    Layer height	0.2 mm
+    Initial layer height	0.2 mm
+    Line width	0.42 mm
+    Initial layer line width	0.5 mm
+    Outer wall line width	0.42 mm
+    Inner wall line width	0.45 mm
+    Sparse infill density	15%
+    Sparse infill pattern	grid
+    Wall loops	2
+    Top shell layers	5
+    Top shell thickness	1.0 mm
+    Bottom shell layers	3
+    Seam position	aligned
+    Supports enabled	0 / off
+    Support type if enabled	tree(auto)
+    Speeds, normal X1C / standard extruder:
+    
+    Speed	Value
+    Initial layer	50 mm/s
+    Initial layer infill	105 mm/s
+    Outer wall	200 mm/s
+    Inner wall	300 mm/s
+    Internal solid infill	250 mm/s
+    Sparse infill	270 mm/s
+    Gap infill	250 mm/s
+    Top surface	200 mm/s
+    Bridge	50 mm/s
+    Support	150 mm/s
+    Support interface	80 mm/s
+    Travel	500 mm/s
+    Acceleration:
+    
+    Acceleration	Value
+    Default	10000 mm/s²
+    Initial layer	500 mm/s²
+    Initial layer travel	6000 mm/s²
+    Outer wall	5000 mm/s²
+    Top surface	2000 mm/s²
+    Travel	10000 mm/s²
+    Short travel	250 mm/s²
