@@ -22,7 +22,7 @@
       <li>Cover x1</li>
       <li>Leg x2</li>
       <li>Pegs x2</li>
-      <li>100mm citcals</li>
+      <li>100mm circles</li>
     </ul>
     <p>I have got the best results by printing everything sepretly and turning the case 90° so the opening is facing up</p>
     <p>printer setting in repo</p>
@@ -35,12 +35,10 @@
     <p>in the picture green is positive and red is negitive(i soldered them wrong, i didnt want to fix it)</p>
 </li>
   <li>
-    <h3>Thred the wires though the hole</h3>
+    <h3>Thread the wires though the hole</h3>
     <img width="3024" height="4032" alt="20260619_165226" src="https://github.com/user-attachments/assets/0e55ed95-c4fe-487e-8875-7a7ff369304b" />
   </li>
   <li>
-
-
     <h3>Strip a usb</h3>
     <img width="3024" height="4032" alt="20260619_165805" src="https://github.com/user-attachments/assets/0ec4670c-93cb-4176-8c24-8ec54e175517" />
     <p>red -> positive<br>
