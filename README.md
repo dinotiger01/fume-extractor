@@ -46,7 +46,8 @@
     <h3>threade the wire though the hole and solder</h3>
     <img width="3024" height="4032" alt="unnamed (2)" src="https://github.com/user-attachments/assets/431bc079-5a7f-485d-8789-b9379b625a61" />
     <p>yellow -> black<br>
-    green -> red</p>
+    green -> red<br>
+    after soldering hot glue the fan to the square at the back</p>
   </li>
   <li>
     <h3>cut out the 100mm circle</h3>
