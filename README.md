@@ -10,7 +10,7 @@
   <li>plug in</li>
 </ul>
 <h2>how to make</h2>
-<ul>
+<ol>
   <li>
     <h3>print</h3>
     <ul>
@@ -21,155 +21,49 @@
       <li>100mm citcals</li>
     </ul>
     <p>i have got the best results by printing everything sepretly and turning the case 90° so the opening is facing up</p>
-    <!-- <tb>
-      <tr>
-        <th>Setting</th>
-        <th>Value</th>
-      </tr>
-      <tr>
-        <td>Layer height</td>
-        <td>0.2 mm</td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-      </tr>
-    </tb> -->
-    Setting	Value
-    Layer height	0.2 mm
-    Initial layer height	0.2 mm
-    Line width	0.42 mm
-    Initial layer line width	0.5 mm
-    Outer wall line width	0.42 mm
-    Inner wall line width	0.45 mm
-    Sparse infill density	15%
-    Sparse infill pattern	grid
-    Wall loops	2
-    Top shell layers	5
-    Top shell thickness	1.0 mm
-    Bottom shell layers	3
-    Seam position	aligned
-    Supports enabled	0 / off
-    Support type if enabled	tree(auto)
-    Speeds, normal X1C / standard extruder:
-    
-    Speed	Value
-    Initial layer	50 mm/s
-    Initial layer infill	105 mm/s
-    Outer wall	200 mm/s
-    Inner wall	300 mm/s
-    Internal solid infill	250 mm/s
-    Sparse infill	270 mm/s
-    Gap infill	250 mm/s
-    Top surface	200 mm/s
-    Bridge	50 mm/s
-    Support	150 mm/s
-    Support interface	80 mm/s
-    Travel	500 mm/s
-    Acceleration:
-    
-    Acceleration	Value
-    Default	10000 mm/s²
-    Initial layer	500 mm/s²
-    Initial layer travel	6000 mm/s²
-    Outer wall	5000 mm/s²
-    Top surface	2000 mm/s²
-    Travel	10000 mm/s²
-    Short travel	250 mm/s²
+    <p>printer settings</p>
+  </li>
+  <li>
+    <h3>solder wires to fan</h3>
+    <img width="3024" height="4032" alt="20260619_165140" src="https://github.com/user-attachments/assets/d3b70a21-fe2e-4aeb-b479-29445c19b450" />
+    <p>the wires that were already on the fan becouse they are so short and fall off easly so it is better to de-solder the wires and replace then with new wires(i personly used the wires from an old microwave)</p>
+    <p>in the picture green is positive and red is negitive(i soldered them wrong, i didnt want to fix it)</p>
+</li>
+  <li>
+    <h3>thred the wires though the hole</h3>
+    <img width="3024" height="4032" alt="20260619_165226" src="https://github.com/user-attachments/assets/0e55ed95-c4fe-487e-8875-7a7ff369304b" />
+  </li>
+  <li>
+    <h3>strip a usb</h3>
+    <img width="3024" height="4032" alt="20260619_165805" src="https://github.com/user-attachments/assets/0ec4670c-93cb-4176-8c24-8ec54e175517" />
+    <p>red -> positive<br>
+    black -> ground<br>
+    green -> data<br>
+    white -> data<br>
+    we dont need any of the data wires so just cut them off</p>
+  </li>
+  <li>
+    <h3>threade the wire though the hole and solder</h3>
+    <img width="3024" height="4032" alt="unnamed (2)" src="https://github.com/user-attachments/assets/431bc079-5a7f-485d-8789-b9379b625a61" />
+    <p>yellow -> black<br>
+    green -> red</p>
+  </li>
+  <li>
+    <h3>cut out the 100mm circle</h3>
+    <img width="3024" height="4032" alt="20260619_161822" src="https://github.com/user-attachments/assets/e76f0db0-756a-41fd-b8d4-8d025c455df7" />
 
   </li>
+  <li>
+    <h3>pin the filter to the paper</h3>
+    <img width="3024" height="4032" alt="20260619_161951" src="https://github.com/user-attachments/assets/8cec9576-ac4a-497b-afc7-aba98bfe094c" />
+  </li>
+  <li>
+    <h3>cut a circle out of the filter</h3>
+    <img width="3024" height="4032" alt="20260619_162157" src="https://github.com/user-attachments/assets/cd8bf7c2-2e14-4a50-ac5d-889065054947" />
+  </li>
+  <li>
+    <h3>hot glue filter to cover</h3>
+    <img width="3024" height="4032" alt="unnamed (1)" src="https://github.com/user-attachments/assets/946b2b4b-f76e-4b3c-b617-ce422940eebf" />
+  </li>
   <li></li>
-  <li></li>
-</ul>
+</ol>
