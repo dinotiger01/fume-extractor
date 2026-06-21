@@ -3,7 +3,7 @@ https://youtu.be/TrmjoPsVBhA
 
 <h3>features</h3>
 <ul>
-  <li>fan that pulls teh fumes away from your face</li>
+  <li>fan that pulls the fumes away from your face</li>
   <li>active coal filter to capture the fumes</li>
   <li>legs with a peg system to exstend witch alows the fan to raise orlower</li>
   <li>small flaps on the legs that help increese sureface area to prefent faling over</li>
