@@ -1,7 +1,13 @@
 <h1>This is a Fume extractor that i built becouse i wanted to stop geting sick after soldering for a long time.</h1>
-<a>https://youtu.be/TrmjoPsVBhA</a>
-
-
+[![Watch the video](https://youtu.be/TrmjoPsVBhA)](https://youtu.be/TrmjoPsVBhA)
+<h3>features</h3>
+<ul>
+  <li>fan that pulls teh fumes away from your face</li>
+  <li>active coal filter to capture the fumes</li>
+  <li>legs with a peg system to exstend witch alows the fan to raise orlower</li>
+  <li>small flaps on the legs that help increese sureface area to prefent faling over</li>
+  <li>the small flaps fold in so that the fan doenit take up much space</li>
+</ul>
 
 
 <h2>how to use:</h2>
