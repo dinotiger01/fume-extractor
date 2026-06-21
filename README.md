@@ -73,9 +73,11 @@ https://youtu.be/TrmjoPsVBhA
   <li>
     <h3>Cut a circle out of the filter</h3>
     <img width="3024" height="4032" alt="20260619_162157" src="https://github.com/user-attachments/assets/cd8bf7c2-2e14-4a50-ac5d-889065054947" />
+    <p>i cut mine reaky bad and ended up cutting another cupple mm of it so it would fit in the cover</p>
   </li>
   <li>
     <h3>Hot glue filter to cover</h3>
     <img width="3024" height="4032" alt="unnamed (1)" src="https://github.com/user-attachments/assets/946b2b4b-f76e-4b3c-b617-ce422940eebf" />
+    <p>after hot glued simply press the filter in to the fan</p>
   </li>
 </ol>
